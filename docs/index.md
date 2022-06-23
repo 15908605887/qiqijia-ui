@@ -47,5 +47,5 @@ const App = () => (
 
 ## 👥 社区互助
 
-- issues 在此提交 [https://github.com/Web-Lif/fast-ui/issues](https://github.com/Web-Lif/fast-ui/issues) 获取社区支持
-- discussions 在此提交讨论/新的想法/创意 [https://github.com/Web-Lif/fast-ui/discussions](https://github.com/Web-Lif/fast-ui/discussions)
+- issues 在此提交 [https://github.com/qiqijia-ui/issues](https://github.com/qiqijia-ui/issues) 获取社区支持
+- discussions 在此提交讨论/新的想法/创意 [https://github.com/qiqijia-ui/discussions](https://github.com/qiqijia-ui/discussions)

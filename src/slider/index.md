@@ -28,7 +28,7 @@ group:
  * desc: 简单的展示。
  */
 import React, { useState, useRef } from 'react';
-import { Slider } from '@weblif/fast-ui';
+import { Slider } from 'qiqijia';
 
 export default () => {
     return (

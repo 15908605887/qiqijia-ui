@@ -17,7 +17,7 @@ group:
  * title: 基础使用
  * desc: 最简单的用法。
  */
-import { Calendar } from '@weblif/fast-ui';
+import { Calendar } from 'qiqijia';
 import React from 'react';
 
 export default () => {

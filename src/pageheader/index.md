@@ -22,7 +22,7 @@ group:
  * desc: 标准页头，适合使用在需要简单描述的场景
  */
 import React from 'react';
-import { PageHeader } from '@weblif/fast-ui';
+import { PageHeader } from 'qiqijia';
 
 export default () => {
     return (

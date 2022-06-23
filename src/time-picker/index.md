@@ -20,7 +20,7 @@ group:
  * title: 基础使用
  * desc: 点击 `TimePicker` 然后可以在浮层中选择或者输入某一时间。
  */
-import { TimePicker } from '@weblif/fast-ui';
+import { TimePicker } from 'qiqijia';
 import React from 'react';
 
 export default () => {

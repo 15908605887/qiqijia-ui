@@ -27,7 +27,7 @@ group:
  * desc: 最简单的用法，适用于简短的警告提示。
  */
 import React, { useState, useRef } from 'react';
-import { Alert } from '@weblif/fast-ui';
+import { Alert } from 'qiqijia';
 
 export default () => {
     return (
@@ -48,7 +48,7 @@ export default () => {
  * desc: 共有四种样式 `success`, `info`, `warning`, `error` 
  */
 import React, { useState, useRef } from 'react';
-import { Alert, Space } from '@weblif/fast-ui';
+import { Alert, Space } from 'qiqijia';
 
 export default () => {
     return (

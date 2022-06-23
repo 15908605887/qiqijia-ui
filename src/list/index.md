@@ -22,7 +22,7 @@ group:
  * desc: 基础列表。
  */
 import React, { useState, useRef } from 'react';
-import { List, Avatar } from '@weblif/fast-ui';
+import { List, Avatar } from 'qiqijia';
 
 
 const data = [

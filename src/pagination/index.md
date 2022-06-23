@@ -22,7 +22,7 @@ group:
  * desc: 基础分页。
  */
 import React from 'react';
-import { Pagination } from '@weblif/fast-ui';
+import { Pagination } from 'qiqijia';
 
 export default () => {
     return <Pagination defaultCurrent={1} total={50} />;
@@ -35,7 +35,7 @@ export default () => {
  * desc: 迷你版本的分页信息
  */
 import React from 'react';
-import { Pagination } from '@weblif/fast-ui';
+import { Pagination } from 'qiqijia';
 
 export default () => {
     return (

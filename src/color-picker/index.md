@@ -20,7 +20,7 @@ group:
  * title: 基本
  * desc: 基础的颜色选择器
  */
-import { ColorPicker } from '@weblif/fast-ui';
+import { ColorPicker } from 'qiqijia';
 import React from 'react';
 
 export default () => {
@@ -33,7 +33,7 @@ export default () => {
  * title: 颜色面板
  * desc: 可将面板放置到任意一个位置, 使用 `ColorPickerPanel`, API 见 [https://github.com/casesandberg/react-color](https://github.com/casesandberg/react-color)
  */
-import { ColorPickerPanel } from '@weblif/fast-ui';
+import { ColorPickerPanel } from 'qiqijia';
 import React, { useState } from 'react';
 
 export default () => {

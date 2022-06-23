@@ -22,7 +22,7 @@ group:
  * desc: 简单的步骤条。
  */
 import React, { useState, useRef } from 'react';
-import { Steps } from '@weblif/fast-ui';
+import { Steps } from 'qiqijia';
 
 const { Step } = Steps;
 

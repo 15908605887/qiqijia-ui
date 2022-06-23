@@ -21,7 +21,7 @@ group:
  * desc: 简单的展示。
  */
 import React, { useState, useRef } from 'react';
-import { Empty } from '@weblif/fast-ui';
+import { Empty } from 'qiqijia';
 
 export default () => {
     return (

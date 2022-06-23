@@ -20,7 +20,7 @@ group:
  * desc: 水平的顶部导航菜单。
  */
 import React, { useState } from 'react';
-import { Menu, Dropdown } from '@weblif/fast-ui';
+import { Menu, Dropdown } from 'qiqijia';
 import { MailOutlined, AppstoreOutlined, SettingOutlined } from '@ant-design/icons';
 
 export default () => {

@@ -22,7 +22,7 @@ group:
  * desc: 最简单的用法，在浮层中可以选择或者输入日期。
  */
 import React, { useState, useRef } from 'react';
-import { Space, Button } from '@weblif/fast-ui';
+import { Space, Button } from 'qiqijia';
 
 export default () => {
     return (
@@ -44,7 +44,7 @@ export default () => {
  * desc: 相邻组件垂直间距。
  */
 import React, { useState, useRef } from 'react';
-import { Space } from '@weblif/fast-ui';
+import { Space } from 'qiqijia';
 import { Card } from 'antd';
 
 export default () => {

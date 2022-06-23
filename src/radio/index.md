@@ -24,7 +24,7 @@ group:
  * title: 基本
  * desc: 最简单的用法
  */
-import { Radio } from '@weblif/fast-ui';
+import { Radio } from 'qiqijia';
 import React from 'react';
 
 export default () => {
@@ -45,7 +45,7 @@ export default () => {
  * title: 不可用
  * desc: Radio 不可用。
  */
-import { Radio } from '@weblif/fast-ui';
+import { Radio } from 'qiqijia';
 import React from 'react';
 
 export default () => {

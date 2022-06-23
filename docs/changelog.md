@@ -6,7 +6,7 @@ nav:
 
 # 更新日志
 
-`@weblif/fast-ui` 严格遵循[ Semantic Versioning 2.0.0](https://semver.org/lang/zh-CN/) 语义化版本规范。
+`qiqijia` 严格遵循[ Semantic Versioning 2.0.0](https://semver.org/lang/zh-CN/) 语义化版本规范。
 
 ### 发布周期
 

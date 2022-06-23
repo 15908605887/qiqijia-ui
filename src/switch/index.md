@@ -24,7 +24,7 @@ group:
  * title: 基础使用
  * desc: 这是一个简单使用的例子
  */
-import { Switch } from '@weblif/fast-ui';
+import { Switch } from 'qiqijia';
 import React from 'react';
 
 export default () => {
@@ -45,7 +45,7 @@ export default () => {
  * title: 不可用
  * desc: Switch 失效状态。
  */
-import { Switch } from '@weblif/fast-ui';
+import { Switch } from 'qiqijia';
 import React from 'react';
 
 export default () => {
@@ -62,7 +62,7 @@ export default () => {
  * title: 两种大小
  * desc: size="small" 表示小号开关。
  */
-import { Switch } from '@weblif/fast-ui';
+import { Switch } from 'qiqijia';
 import React from 'react';
 
 export default () => {
@@ -85,7 +85,7 @@ export default () => {
  * title: 加载中
  * desc: 标识开关操作仍在执行中。
  */
-import { Switch } from '@weblif/fast-ui';
+import { Switch } from 'qiqijia';
 import React from 'react';
 
 export default () => {
@@ -104,7 +104,7 @@ export default () => {
  * title: 文字
  * desc: 带有文字的开关
  */
-import { Switch } from '@weblif/fast-ui';
+import { Switch } from 'qiqijia';
 import React from 'react';
 
 export default () => {

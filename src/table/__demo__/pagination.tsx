@@ -2,7 +2,7 @@
  * title: 分页
  * desc: 带分页的表格信息
  */
-import { Column, Table } from '@weblif/fast-ui';
+import { Column, Table } from 'qiqijia';
 import React, { useState } from 'react';
 
 interface UserData {

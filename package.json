@@ -17,7 +17,7 @@
     "typings": "es/index.d.ts",
     "author": {
         "name": "苯苯",
-        "email": "854363956@qq.com"
+        "email": "296726826@qq.com"
     },
     "gitHooks": {
         "pre-commit": "lint-staged"
@@ -26,10 +26,10 @@
         "es"
     ],
     "license": "MIT",
-    "homepage": "https://ui.lif.ink",
+    "homepage": "https://www.xztzh.com",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Web-Lif/fast-ui.git",
+        "url": "git+https://github.com/qiqijia-ui.git",
         "branch": "canary",
         "platform": "github"
     },
@@ -71,7 +71,7 @@
         "@dnd-kit/modifiers": "^6.0.0",
         "@dnd-kit/utilities": "^3.2.0",
         "@emotion/css": "^11.9.0",
-        "@weblif/fast-ui": "^0.20.1",
+        "qiqijia": "^0.20.1",
         "@weblif/rc-table": "^0.5.1-canary",
         "antd": "^4.21.2",
         "date-fns": "^2.28.0",

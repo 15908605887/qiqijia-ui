@@ -22,7 +22,7 @@ group:
  * desc: 最简单的用法。
  */
 import React, { useState, useRef } from 'react';
-import { Anchor } from '@weblif/fast-ui';
+import { Anchor } from 'qiqijia';
 
 const { Link } = Anchor;
 

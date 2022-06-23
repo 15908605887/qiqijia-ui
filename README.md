@@ -4,7 +4,7 @@
     企业级的UI组件库，适合在大数据处理，或经常使用 CURD 的场景
 </div>
 
-[![npm](https://img.shields.io/npm/v/@weblif/fast-ui)](https://www.npmjs.com/package/@weblif/fast-ui) [![GitHub license](https://img.shields.io/github/license/Web-Lif/fast-ui)](https://github.com/Web-Lif/fast-ui/blob/canary/LICENSE)
+[![npm](https://img.shields.io/npm/v/qiqijia)](https://www.npmjs.com/package/qiqijia) [![GitHub license](https://img.shields.io/github/license/qiqijia-ui)](https://github.com/qiqijia-ui/blob/canary/LICENSE)
 
 ## ✨ 特性
 
@@ -44,5 +44,5 @@ const App = () => (
 
 ## 👥 社区互助
 
--   issues 在此提交 [https://github.com/Web-Lif/fast-ui/issues](https://github.com/Web-Lif/fast-ui/issues) 获取社区支持
--   discussions 在此提交讨论/新的想法/创意 [https://github.com/Web-Lif/fast-ui/discussions](https://github.com/Web-Lif/fast-ui/discussions)
+-   issues 在此提交 [https://github.com/qiqijia-ui/issues](https://github.com/qiqijia-ui/issues) 获取社区支持
+-   discussions 在此提交讨论/新的想法/创意 [https://github.com/qiqijia-ui/discussions](https://github.com/qiqijia-ui/discussions)

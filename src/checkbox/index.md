@@ -24,7 +24,7 @@ group:
  * title: 基本
  * desc: 最简单的用法
  */
-import { Checkbox } from '@weblif/fast-ui';
+import { Checkbox } from 'qiqijia';
 import React from 'react';
 
 export default () => {
@@ -51,7 +51,7 @@ export default () => {
  * title: 不可用
  * desc: Checkbox 不可用
  */
-import { Checkbox } from '@weblif/fast-ui';
+import { Checkbox } from 'qiqijia';
 import React from 'react';
 
 export default () => {

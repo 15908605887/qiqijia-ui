@@ -22,7 +22,7 @@ group:
  * desc: 使用 `type="vertical"` 设置为行内的垂直分割线。
  */
 import React, { useState, useRef } from 'react';
-import { Divider } from '@weblif/fast-ui';
+import { Divider } from 'qiqijia';
 
 export default () => {
     return (

@@ -21,7 +21,7 @@ group:
  * desc: 图片的基础用法
  */
 import React from 'react';
-import { Image } from '@weblif/fast-ui';
+import { Image } from 'qiqijia';
 
 export default () => {
     return (

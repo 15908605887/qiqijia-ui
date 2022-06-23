@@ -22,7 +22,7 @@ group:
  * desc: 最简单的用法。
  */
 import React, { useState, useRef } from 'react';
-import { Affix, Button } from '@weblif/fast-ui';
+import { Affix, Button } from 'qiqijia';
 
 export default () => {
     return (

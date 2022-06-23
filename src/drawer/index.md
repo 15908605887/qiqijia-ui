@@ -23,7 +23,7 @@ group:
  * desc: 基础抽屉，点击触发按钮抽屉从右滑出，点击遮罩区关闭。
  */
 import React, { useState } from 'react';
-import { Drawer, Button } from '@weblif/fast-ui';
+import { Drawer, Button } from 'qiqijia';
 export default () => {
     const [visible, setVisible] = useState(false);
     const showDrawer = () => {

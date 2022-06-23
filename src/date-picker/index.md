@@ -24,7 +24,7 @@ group:
  * title: 基本
  * desc: 最简单的用法，在浮层中可以选择或者输入日期。
  */
-import { DatePicker } from '@weblif/fast-ui';
+import { DatePicker } from 'qiqijia';
 import React from 'react';
 
 export default () => {
@@ -45,7 +45,7 @@ export default () => {
  * title: 定制日期单元格
  * desc: 使用 `dateRender` 可以自定义日期单元格的内容和样式。
  */
-import { DatePicker } from '@weblif/fast-ui';
+import { DatePicker } from 'qiqijia';
 import { getDate } from 'date-fns';
 import React from 'react';
 
@@ -78,7 +78,7 @@ export default () => {
  * title: 范围选择器
  * desc: 通过设置 `picker` 属性，指定范围选择器类型。
  */
-import { DatePicker } from '@weblif/fast-ui';
+import { DatePicker } from 'qiqijia';
 import React from 'react';
 
 export default () => {

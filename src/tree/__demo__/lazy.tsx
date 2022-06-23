@@ -2,7 +2,7 @@
  * title: 懒加载
  * desc: 异步加载树的信息, 可极大的优化加载效率
  */
-import { Tree } from '@weblif/fast-ui';
+import { Tree } from 'qiqijia';
 import React, { useRef, useState } from 'react';
 
 export default () => {

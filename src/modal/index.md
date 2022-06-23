@@ -20,7 +20,7 @@ group:
  * title: 执行耗时任务
  * desc: 执行耗时任务可以自动进行防止多次点击按钮, 当执行成功后才让继续点击
  */
-import { Button, Modal } from '@weblif/fast-ui';
+import { Button, Modal } from 'qiqijia';
 import React, { useState } from 'react';
 
 /** Mock 请求数据, 或则一些耗时操作 */
@@ -66,7 +66,7 @@ export default () => {
  * title: 快速创建提示
  * desc: 可采用 `Modal` 的方法快速创建对话框
  */
-import { Button, Modal, Space } from '@weblif/fast-ui';
+import { Button, Modal, Space } from 'qiqijia';
 import React from 'react';
 
 export default () => {
@@ -97,7 +97,7 @@ export default () => {
  * title: 事件冒泡
  * desc: 对回车事件的冒泡处理
  */
-import { Button, Input, Modal, Space } from '@weblif/fast-ui';
+import { Button, Input, Modal, Space } from 'qiqijia';
 import React, { useState } from 'react';
 
 export default () => {

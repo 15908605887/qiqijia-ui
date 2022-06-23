@@ -2,7 +2,7 @@
  * title: 基础
  * desc: 典型的页面布局。
  */
-import { Layout } from '@weblif/fast-ui';
+import { Layout } from 'qiqijia';
 import React from 'react';
 
 const Simple = () => (

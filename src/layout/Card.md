@@ -22,7 +22,7 @@ group:
  * desc: 包含标题、内容、操作区域。
  */
 import React, { useState, useRef } from 'react';
-import { Card } from '@weblif/fast-ui';
+import { Card } from 'qiqijia';
 
 export default () => {
     return (

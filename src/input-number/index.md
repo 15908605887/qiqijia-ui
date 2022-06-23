@@ -24,7 +24,7 @@ group:
  * title: 基本
  * desc: 数字输入框。
  */
-import { InputNumber } from '@weblif/fast-ui';
+import { InputNumber } from 'qiqijia';
 import React from 'react';
 
 export default () => {
@@ -49,7 +49,7 @@ export default () => {
  * title: 禁用
  * desc: 禁用数字输入框。
  */
-import { InputNumber } from '@weblif/fast-ui';
+import { InputNumber } from 'qiqijia';
 import React from 'react';
 
 export default () => {

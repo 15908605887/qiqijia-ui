@@ -18,7 +18,7 @@ group:
  * desc: 基本标签的用法，可以通过添加 closable 变为可关闭标签。可关闭标签具有 onClose 事件。
  */
 import React from 'react';
-import { Tag, Space } from '@weblif/fast-ui';
+import { Tag, Space } from 'qiqijia';
 
 export default () => {
     return (

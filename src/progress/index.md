@@ -27,7 +27,7 @@ group:
  * desc: 基本的时间轴。
  */
 import React, { useState, useRef } from 'react';
-import { Progress } from '@weblif/fast-ui';
+import { Progress } from 'qiqijia';
 
 
 export default () => {

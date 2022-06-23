@@ -20,7 +20,7 @@ group:
  * desc: 典型的页面布局。
  */
 import React, { useState, useRef } from 'react';
-import { Row, Col } from '@weblif/fast-ui';
+import { Row, Col } from 'qiqijia';
 
 export default () => {
     const style={ background: '#7dbcea', height: 100}

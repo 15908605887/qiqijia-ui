@@ -25,7 +25,7 @@ group:
  * desc: 这是一个简单使用的例子
  */
 import React, { useState, useRef } from 'react';
-import { Input } from '@weblif/fast-ui';
+import { Input } from 'qiqijia';
 
 export default () => {
     return (
@@ -46,7 +46,7 @@ export default () => {
  * desc: 用来输入密码的信息
  */
 import React, { useState, useRef } from 'react';
-import { Input } from '@weblif/fast-ui';
+import { Input } from 'qiqijia';
 
 export default () => {
     return (
@@ -67,7 +67,7 @@ export default () => {
  * desc: 没有边框。
  */
 import React, { useState, useRef } from 'react';
-import { Input } from '@weblif/fast-ui';
+import { Input } from 'qiqijia';
 
 export default () => {
     return (
@@ -93,7 +93,7 @@ export default () => {
  * desc: 用于多行输入。
  */
 import React, { useState, useRef } from 'react';
-import { Input } from '@weblif/fast-ui';
+import { Input } from 'qiqijia';
 
 export default () => {
     return (
@@ -116,7 +116,7 @@ export default () => {
  * desc: 带有搜索按钮的输入框。
  */
 import React, { useState, useRef } from 'react';
-import { Input } from '@weblif/fast-ui';
+import { Input } from 'qiqijia';
 
 export default () => {
     return (

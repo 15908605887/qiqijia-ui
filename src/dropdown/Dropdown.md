@@ -23,7 +23,7 @@ group:
  * desc: 最简单的下拉菜单。
  */
 import React from 'react';
-import { Menu, Dropdown } from '@weblif/fast-ui';
+import { Menu, Dropdown } from 'qiqijia';
 
 export default () => {
     const menu = (

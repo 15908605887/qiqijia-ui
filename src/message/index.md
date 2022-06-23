@@ -17,7 +17,7 @@ group:
  * desc: 信息提醒反馈。
  */
 import React, { useState } from 'react';
-import { message, Button } from '@weblif/fast-ui';
+import { message, Button } from 'qiqijia';
 export default () => {
     const [selectKey, setSelectKey] = useState<string>('mail')
     return (

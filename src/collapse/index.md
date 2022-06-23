@@ -22,7 +22,7 @@ group:
  * desc: 可以同时展开多个面板
  */
 import React, { useState, useRef } from 'react';
-import { Collapse } from '@weblif/fast-ui';
+import { Collapse } from 'qiqijia';
 
 const { Panel } = Collapse
 

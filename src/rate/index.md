@@ -26,7 +26,7 @@ group:
  * desc: 最简单的用法。
  */
 import React from 'react';
-import { Rate } from '@weblif/fast-ui';
+import { Rate } from 'qiqijia';
 
 export default () => {
     return <Rate />;
@@ -39,7 +39,7 @@ export default () => {
  * desc: 只读，无法进行鼠标交互。
  */
 import React from 'react';
-import { Rate } from '@weblif/fast-ui';
+import { Rate } from 'qiqijia';
 
 export default () => {
     return <Rate disabled defaultValue={2} />;
@@ -56,7 +56,7 @@ export default () => {
  * desc: 支持选中半星。
  */
 import React from 'react';
-import { Rate } from '@weblif/fast-ui';
+import { Rate } from 'qiqijia';
 
 export default () => {
     return <Rate allowHalf defaultValue={2.5} />;

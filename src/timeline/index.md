@@ -22,7 +22,7 @@ group:
  * desc: 基本的时间轴。
  */
 import React, { useState, useRef } from 'react';
-import { Timeline } from '@weblif/fast-ui';
+import { Timeline } from 'qiqijia';
 
 
 export default () => {

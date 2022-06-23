@@ -20,7 +20,7 @@ group:
  * title: 基本
  * desc: 基本的级联使用
  */
-import { Cascader } from '@weblif/fast-ui';
+import { Cascader } from 'qiqijia';
 import React from 'react';
 
 const options = [
@@ -75,7 +75,7 @@ export default () => {
  * title: 懒加载
  * desc: 通过远程服务器动态加载
  */
-import { Cascader } from '@weblif/fast-ui';
+import { Cascader } from 'qiqijia';
 import React, { useState } from 'react';
 
 const options = [

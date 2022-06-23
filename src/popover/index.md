@@ -22,7 +22,7 @@ group:
  * desc: 最简单的用法，浮层的大小由内容区域决定。
  */
 import React from 'react';
-import { Popover, Button  } from '@weblif/fast-ui';
+import { Popover, Button  } from 'qiqijia';
 
 export default () => {
     return (

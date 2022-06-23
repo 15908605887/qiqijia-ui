@@ -19,7 +19,7 @@ group:
  * desc: 一个基本的评论组件，带有作者、头像、时间和操作。
  */
 import React, { useState, useRef } from 'react';
-import { Comment, Avatar } from '@weblif/fast-ui';
+import { Comment, Avatar } from 'qiqijia';
 
 export default () => {
 

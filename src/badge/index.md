@@ -22,7 +22,7 @@ group:
  * desc: 简单的徽章展示，当 `count` 为 `0` 时，默认不显示，但是可以使用 `showZero` 修改为显示
  */
 import React from 'react';
-import { Avatar, Badge, Space } from '@weblif/fast-ui';
+import { Avatar, Badge, Space } from 'qiqijia';
 import { ClockCircleOutlined } from '@ant-design/icons';
 
 export default () => {
@@ -52,7 +52,7 @@ export default () => {
  * desc: 超过 overflowCount 的会显示为 ${overflowCount}+，默认的 overflowCount 为 99。
  */
 import React from 'react';
-import { Badge, Avatar, Space } from '@weblif/fast-ui';
+import { Badge, Avatar, Space } from 'qiqijia';
 
 export default () => {
     return (

@@ -23,7 +23,7 @@ group:
  * desc: 简单的展示。
  */
 import React, { useState, useRef } from 'react';
-import { Result, Button } from '@weblif/fast-ui';
+import { Result, Button } from 'qiqijia';
 
 export default () => {
     return (

@@ -21,7 +21,7 @@ group:
  * desc: 最简单的用法。
  */
 import React, { useState, useRef } from 'react';
-import { Breadcrumb } from '@weblif/fast-ui';
+import { Breadcrumb } from 'qiqijia';
 
 export default () => {
     return (

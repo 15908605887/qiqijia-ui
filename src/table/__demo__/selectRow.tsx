@@ -2,7 +2,7 @@
  * title: 选中行信息
  * desc: 可以使用 `rowSelection` 来设置选中模式
  */
-import { Column, Table, useTableLocalSort, Button } from '@weblif/fast-ui'
+import { Column, Table, useTableLocalSort, Button } from 'qiqijia'
 import React, { Key, useState } from 'react'
 
 interface UserData {

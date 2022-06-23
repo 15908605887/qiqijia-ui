@@ -2,7 +2,7 @@
  * title: 空数据
  * desc: 显示空数据信息
  */
-import { Column, Table, useTableLocalSort } from '@weblif/fast-ui';
+import { Column, Table, useTableLocalSort } from 'qiqijia';
 import React, { useState } from 'react';
 
 export default () => {

@@ -18,7 +18,7 @@ group:
  * title: 基本使用。
  * desc: 基础选择器
  */
-import { Select } from '@weblif/fast-ui';
+import { Select } from 'qiqijia';
 import React from 'react';
 
 const { Option } = Select;

@@ -22,7 +22,7 @@ group:
  * desc: 默认选中第一项。
  */
 import React, { useState } from 'react';
-import { Tabs } from '@weblif/fast-ui';
+import { Tabs } from 'qiqijia';
 
 const { TabPane } = Tabs;
 

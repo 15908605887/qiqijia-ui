@@ -18,7 +18,7 @@ export default defineConfig({
             null,
             {
                 title: 'GitHub',
-                path: 'https://github.com/Web-Lif/fast-ui',
+                path: 'https://github.com/qiqijia-ui',
             },
         ],
     },

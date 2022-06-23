@@ -18,7 +18,7 @@ group:
  * desc: 最简单的用法。
  */
 import React, { useState, useRef } from 'react';
-import { BackTop } from '@weblif/fast-ui';
+import { BackTop } from 'qiqijia';
 
 export default () => {
     return (

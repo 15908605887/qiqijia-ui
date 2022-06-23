@@ -23,7 +23,7 @@ group:
  * desc: 最简单的占位效果。
  */
 import React from 'react';
-import { Skeleton } from '@weblif/fast-ui';
+import { Skeleton } from 'qiqijia';
 
 export default () => {
     return (

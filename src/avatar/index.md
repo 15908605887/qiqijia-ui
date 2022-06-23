@@ -22,7 +22,7 @@ group:
  * desc: 最简单的用法。
  */
 import React from 'react';
-import { Avatar } from '@weblif/fast-ui';
+import { Avatar } from 'qiqijia';
 import { UserOutlined } from '@ant-design/icons';
 
 export default () => {
@@ -47,7 +47,7 @@ export default () => {
  * desc: 支持三种类型：图片、Icon 以及字符，其中 Icon 和字符型可以自定义图标颜色及背景色。
  */
 import React from 'react';
-import { Avatar } from '@weblif/fast-ui';
+import { Avatar } from 'qiqijia';
 import { UserOutlined } from '@ant-design/icons';
 import { Image } from 'antd';
 

@@ -2,7 +2,7 @@
  * title: 基础
  * desc: 简单的表格信息
  */
-import { Column, Table, useTableLocalSort } from '@weblif/fast-ui';
+import { Column, Table, useTableLocalSort } from 'qiqijia';
 import React, { useState } from 'react';
 
 interface UserData {

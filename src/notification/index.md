@@ -17,7 +17,7 @@ group:
  * desc: 信息提醒反馈。
  */
 import React, { useState } from 'react';
-import { notification, Button } from '@weblif/fast-ui';
+import { notification, Button } from 'qiqijia';
 export default () => {
     const openNotification = () => {
         notification.open({
